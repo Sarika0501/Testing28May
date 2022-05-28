@@ -6,6 +6,8 @@ public class A {
 		
 		System.out.println("Saruuuu");
 		System.out.println("all the best for joining");
+		
+		System.out.println("Saruuuu, best of luck");
 
 	}
 
